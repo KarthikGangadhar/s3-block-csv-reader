@@ -1,0 +1,28 @@
+{
+  "name": "s3-block-csv-reader",
+  "version": "1.0.0",
+  "description": "Module to read comma separated values(csv) files from amazon s3 bucket has json.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarthikGangadhar/s3-block-csv-reader.git"
+  },
+  "keywords": [
+    "s3-bucket",
+    "amazon",
+    "csv",
+    "json",
+    "csvtojson"
+  ],
+  "author": "kgangadhar <karthikg1643@gmail.com> (https://github.com/karthikgangadhar)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarthikGangadhar/s3-block-csv-reader/issues"
+  },
+  "homepage": "https://github.com/KarthikGangadhar/s3-block-csv-reader#readme",
+  "dependencies": {}
+}
